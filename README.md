@@ -1,2 +1,2 @@
 # trade-cheese
-# cheese trade in the Caribbean
+cheese trade in the Caribbean
